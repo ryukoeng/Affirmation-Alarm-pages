@@ -6,3 +6,6 @@ vendor/
 Gemfile.lock
 .sass-cache/
 .DS_Store
+
+.agents/
+skills-lock.json
