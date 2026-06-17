@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{%- if page.url contains "/en/" -%}{%- assign home_url = "/en/" -%}{%- assign back_label = "All documents" -%}{%- assign eff_label = "Effective" -%}{%- else -%}{%- assign home_url = "/ja/" -%}{%- assign back_label = "ドキュメント一覧" -%}{%- assign eff_label = "制定日" -%}{%- endif -%}
+<article class="article">
+  <header class="article-head">
+    <p class="back"><a href="{{ home_url | relative_url }}">← {{ back_label }}</a></p>
+    <h1>{{ page.title }}</h1>
+    {%- if page.effective %}
+    <p class="eyebrow article-eff">{{ eff_label }} <span>{{ page.effective }}</span></p>
+    {%- endif %}
+  </header>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

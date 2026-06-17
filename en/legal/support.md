@@ -2,13 +2,12 @@
 layout: page
 title: Support
 lang: en
+description: Support contact and frequently checked items for the iOS app "Affirmation Alarm".
 ---
-
-🌐 [日本語](/ja/legal/support.html)
 
 For inquiries regarding Affirmation Alarm, please contact us at the following:
 
-Email: support@ryukoeng.com
+Email: [support@ryukoeng.com](mailto:support@ryukoeng.com)
 
 When you contact us, please include the following information as much as possible:
 
@@ -29,4 +28,4 @@ If your alarm does not ring, please check the following:
 
 You can cancel or manage your subscription from the official Apple page below:
 
-https://apps.apple.com/account/subscriptions
+[https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)

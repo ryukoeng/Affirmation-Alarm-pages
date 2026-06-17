@@ -2,9 +2,8 @@
 layout: page
 title: Notation Based on the Act on Specified Commercial Transactions
 lang: en
+description: Notation based on Japan's Act on Specified Commercial Transactions for the iOS app "Affirmation Alarm".
 ---
-
-🌐 [日本語](/ja/legal/tokushoho.html)
 
 This is the notation based on Japan's Act on Specified Commercial Transactions regarding the in-app purchases (subscriptions) of the App "Affirmation Alarm".
 
@@ -14,7 +13,7 @@ This is the notation based on Japan's Act on Specified Commercial Transactions r
 | Operations manager | LIU HAO |
 | Address | 401, Dai-2 Mori Bldg., 4-24-5 Meieki, Nakamura-ku, Nagoya, Aichi 450-0002, Japan |
 | Phone number | Disclosed without delay upon request. Please contact us via the email below. |
-| Email address | support@ryukoeng.com |
+| Email address | [support@ryukoeng.com](mailto:support@ryukoeng.com) |
 | Sales URL | The App's page on the App Store (`https://apps.apple.com/`) |
 | Price | The price of each plan is shown on the App Store purchase screen (varies by region and currency). |
 | Additional fees besides the product price | Communication charges incurred in downloading and using the App are borne by the customer. |

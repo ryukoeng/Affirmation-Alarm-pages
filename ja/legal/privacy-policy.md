@@ -2,11 +2,9 @@
 layout: page
 title: プライバシーポリシー
 lang: ja
+effective: 2026年5月30日
+description: iOS アプリ「アファメーションアラーム」のプライバシーポリシー。
 ---
-
-🌐 [English](/en/legal/privacy-policy.html)
-
-制定日: 2026年5月30日
 
 「アファメーションアラーム」(以下「本アプリ」といいます)は、ユーザーのプライバシーを尊重し、以下の方針に従って情報を取り扱います。
 
@@ -73,4 +71,4 @@ lang: ja
 
 所在地: 〒450-0002 愛知県名古屋市中村区名駅4丁目24番5号 第2森ビル401
 
-メール: support@ryukoeng.com
+メール: [support@ryukoeng.com](mailto:support@ryukoeng.com)

@@ -2,13 +2,12 @@
 layout: page
 title: サポート
 lang: ja
+description: iOS アプリ「アファメーションアラーム」のサポート窓口とよくある確認事項。
 ---
-
-🌐 [English](/en/legal/support.html)
 
 アファメーションアラームに関するお問い合わせは、以下の連絡先までお願いいたします。
 
-メール: support@ryukoeng.com
+メール: [support@ryukoeng.com](mailto:support@ryukoeng.com)
 
 お問い合わせの際は、可能な範囲で以下の情報を記載してください。
 
@@ -29,4 +28,4 @@ lang: ja
 
 サブスクリプションの解約や管理は、以下のApple公式ページから行えます。
 
-https://apps.apple.com/account/subscriptions
+[https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)

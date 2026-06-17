@@ -2,9 +2,8 @@
 layout: page
 title: 特定商取引法に基づく表記
 lang: ja
+description: iOS アプリ「アファメーションアラーム」の特定商取引法に基づく表記。
 ---
-
-🌐 [English](/en/legal/tokushoho.html)
 
 本アプリ「アファメーションアラーム」のアプリ内課金(サブスクリプション)に関する、特定商取引法に基づく表記です。
 
@@ -14,7 +13,7 @@ lang: ja
 | 運営統括責任者 | LIU HAO |
 | 所在地 | 〒450-0002 愛知県名古屋市中村区名駅4丁目24番5号 第2森ビル401 |
 | 電話番号 | ご請求があれば遅滞なく開示いたします。お問い合わせは下記メールにてお願いいたします。 |
-| メールアドレス | support@ryukoeng.com |
+| メールアドレス | [support@ryukoeng.com](mailto:support@ryukoeng.com) |
 | 販売URL | App Store(`https://apps.apple.com/`)上の本アプリページ |
 | 販売価格 | 各プランの価格は App Store の購入画面に表示されます(地域・通貨により異なります)。 |
 | 商品代金以外の必要料金 | アプリのダウンロード・利用に伴う通信料はお客様のご負担となります。 |

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section class="hero">
+  {%- if page.kicker %}<p class="eyebrow">{{ page.kicker }}</p>{%- endif %}
+  <h1 class="hero-title">{{ page.heading }}</h1>
+  {%- if page.lead %}<p class="hero-lead">{{ page.lead }}</p>{%- endif %}
+</section>
+
+{%- if page.enter %}
+<nav class="enter" aria-label="{% if page.lang == 'en' %}Choose language{% else %}言語選択{% endif %}">
+  {%- for e in page.enter %}
+  <a class="enter-link" href="{{ e.url | relative_url }}">
+    <span class="enter-label">{{ e.label }}</span>
+    <span class="enter-sub">{{ e.sub }}</span>
+    <span class="enter-arrow" aria-hidden="true">→</span>
+  </a>
+  {%- endfor %}
+</nav>
+{%- endif %}
+
+{%- if page.docs %}
+<section class="docs">
+  <h2 class="docs-title">{{ page.docs_title }}</h2>
+  <ul class="doc-list">
+    {%- for d in page.docs %}
+    <li>
+      <a class="doc" href="{{ d.url | relative_url }}">
+        <span class="doc-eyebrow">{{ d.eyebrow }}</span>
+        <span class="doc-name">{{ d.title }}</span>
+        <span class="doc-arrow" aria-hidden="true">→</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+
+{{ content }}

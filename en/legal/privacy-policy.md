@@ -2,11 +2,9 @@
 layout: page
 title: Privacy Policy
 lang: en
+effective: May 30, 2026
+description: Privacy policy for the iOS app "Affirmation Alarm".
 ---
-
-🌐 [日本語](/ja/legal/privacy-policy.html)
-
-Effective date: May 30, 2026
 
 "Affirmation Alarm" (hereinafter the "App") respects your privacy and handles information in accordance with the policy below.
 
@@ -73,4 +71,4 @@ Business operator: ryukoeng
 
 Address: 401, Dai-2 Mori Bldg., 4-24-5 Meieki, Nakamura-ku, Nagoya, Aichi 450-0002, Japan
 
-Email: support@ryukoeng.com
+Email: [support@ryukoeng.com](mailto:support@ryukoeng.com)

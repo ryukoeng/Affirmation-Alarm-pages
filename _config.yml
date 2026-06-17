@@ -1,5 +1,11 @@
 title: アファメーションアラーム
 description: 解除時に登録済みアファメーション文を正確に入力しないと止まらない iOS アラーム
-theme: minima
 url: "https://affirmation-alarm.ryukoeng.com"
 baseurl: ""
+
+# 独自レイアウト(_layouts/)と独自CSS(assets/css/style.css)で配信するため theme は使わない
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

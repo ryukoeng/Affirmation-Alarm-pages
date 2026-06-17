@@ -2,11 +2,9 @@
 layout: page
 title: 利用規約
 lang: ja
+effective: 2026年5月30日
+description: iOS アプリ「アファメーションアラーム」の利用規約。
 ---
-
-🌐 [English](/en/legal/terms-of-use.html)
-
-制定日: 2026年5月30日
 
 この利用規約(以下「本規約」といいます)は、「アファメーションアラーム」(以下「本アプリ」といいます)の利用条件を定めるものです。本アプリを利用することで、ユーザーは本規約に同意したものとみなされます。
 
@@ -53,7 +51,7 @@ lang: ja
 
 サブスクリプション管理:
 
-https://apps.apple.com/account/subscriptions
+[https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)
 
 ## 6. 返金
 
@@ -89,4 +87,4 @@ https://apps.apple.com/account/subscriptions
 
 所在地: 〒450-0002 愛知県名古屋市中村区名駅4丁目24番5号 第2森ビル401
 
-メール: support@ryukoeng.com
+メール: [support@ryukoeng.com](mailto:support@ryukoeng.com)

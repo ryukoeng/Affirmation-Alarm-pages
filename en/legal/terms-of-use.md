@@ -2,11 +2,9 @@
 layout: page
 title: Terms of Use
 lang: en
+effective: May 30, 2026
+description: Terms of use for the iOS app "Affirmation Alarm".
 ---
-
-🌐 [日本語](/ja/legal/terms-of-use.html)
-
-Effective date: May 30, 2026
 
 These Terms of Use (hereinafter the "Terms") set out the conditions for using "Affirmation Alarm" (hereinafter the "App"). By using the App, you are deemed to have agreed to these Terms.
 
@@ -53,7 +51,7 @@ Subscriptions offered in the App are purchased through Apple's App Store.
 
 Subscription management:
 
-https://apps.apple.com/account/subscriptions
+[https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)
 
 ## 6. Refunds
 
@@ -89,4 +87,4 @@ Business operator: ryukoeng
 
 Address: 401, Dai-2 Mori Bldg., 4-24-5 Meieki, Nakamura-ku, Nagoya, Aichi 450-0002, Japan
 
-Email: support@ryukoeng.com
+Email: [support@ryukoeng.com](mailto:support@ryukoeng.com)
