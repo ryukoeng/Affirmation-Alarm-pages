@@ -1,7 +1,10 @@
 ---
 layout: page
 title: サポート
+lang: ja
 ---
+
+🌐 [English](/en/legal/support.html)
 
 アファメーションアラームに関するお問い合わせは、以下の連絡先までお願いいたします。
 
@@ -27,4 +30,3 @@ title: サポート
 サブスクリプションの解約や管理は、以下のApple公式ページから行えます。
 
 https://apps.apple.com/account/subscriptions
-

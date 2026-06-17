@@ -1,11 +1,12 @@
 ---
 layout: page
-title: アファメーションアラーム
+title: アファメーションアラーム / Affirmation Alarm
 ---
 
-このページは、iOS アプリ「アファメーションアラーム」の公開ドキュメントです。
+iOS アプリ「アファメーションアラーム」の公開ドキュメントです。
+Public documents for the iOS app "Affirmation Alarm".
 
-- [プライバシーポリシー](/legal/privacy-policy.html)
-- [利用規約](/legal/terms-of-use.html)
-- [サポート](/legal/support.html)
-- [特定商取引法に基づく表記](/legal/tokushoho.html)
+言語を選択してください / Choose your language:
+
+- [日本語](/ja/)
+- [English](/en/)
