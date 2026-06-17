@@ -9,3 +9,5 @@ Gemfile.lock
 
 .agents/
 skills-lock.json
+
+.serena/
